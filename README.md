@@ -18,6 +18,7 @@ https://www.curseforge.com/minecraft/texture-packs/broken-tools
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Turkish;
+
 Açıklama;
 
 Bu proje 1.16.5 texture pack.Bu projede genelde alıntı yaptım.Alıntıladığım paketlerin linklerini aşağıya bıraktım.
